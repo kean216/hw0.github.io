@@ -30,5 +30,9 @@ p {
   color: red;
 }
 
+.main-title {
+  color: #ff5733; /* change title color to orange */
+  text-align: center;
+}
 
 p {}
